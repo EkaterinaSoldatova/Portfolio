@@ -1,2 +1,2 @@
-# Portfolio
-Мои выполненные работы по тестированию
+# Resume
+Here you can check out my resume
